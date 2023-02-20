@@ -2,5 +2,8 @@ public class Main{
 	public void m1(){
 		// added the m1 method in main class.
 }
+	public void m2(){
+		// added the m2 method in main class.
+}
 
 }
