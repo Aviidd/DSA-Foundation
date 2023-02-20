@@ -1,0 +1,6 @@
+public class Main{
+	public void m1(){
+		// added the m1 method in main class.
+}
+
+}
